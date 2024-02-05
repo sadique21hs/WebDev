@@ -86,6 +86,12 @@ top: 40px;
     width: 50%;
     margin:auto;
 }
+
+.copyright{
+    color:#EAF6F6;
+  }
+
+  
 .btn {
     background: #3498db;
     background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
@@ -116,4 +122,9 @@ top: 40px;
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
     margin: 20px 10px;
+    text-decoration: none;
   }
+  a:hover{
+    color: #EAF6F6;
+  }
+  
